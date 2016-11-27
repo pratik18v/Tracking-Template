@@ -15,7 +15,7 @@ bounding box for each frame.
 <img src="https://github.com/pratik18v/Tracking-Template/blob/master/car_template.jpg">
 
 **Some frames with tracked template** <br />
-<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00304.jpg">
-<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00320.jpg">
-<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00350.jpg">
-<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00400.jpg">
+<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00304.jpg" height="400" width="300">
+<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00320.jpg" height="400" width="300">
+<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00350.jpg" height="400" width="300">
+<img src="https://github.com/pratik18v/Tracking-Template/blob/master/frame00400.jpg" height="400" width="300">
