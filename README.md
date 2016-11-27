@@ -1,6 +1,6 @@
 # Tracking-Template
 
-The code is the implementation of basic Lucas-Kanade template tracking method for strictly translation motion.
+The code is the implementation of basic Lucas-Kanade template tracking method for strictly translational motion.
 
 **Files included:** <br />
 1. hw4.m : Demo code to run the implemented algorithm. Required data and generated output is available in the repo as CarSequence.zip and output.zip. <br />
