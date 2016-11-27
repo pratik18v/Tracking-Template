@@ -2,7 +2,7 @@
 
 The code is the implementation of basic Lucas-Kanade template tracking method for strictly translation motion.
 
-**Files included: ** <br />
+**Files included:** <br />
 1. hw4.m : Demo code to run the implemented algorithm. Required data and generated output is available in the repo as CarSequence.zip and output.zip. <br />
 2. trackTemplate.m : The main function that takes as input string containing path to the frames in which template has to be 
 tracked and the template image. The function creates a new directory 'output' in which it saves all the frames with bounding
